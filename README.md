@@ -1,7 +1,7 @@
 # Sayali
 ﻿
  <h1 align="center">Hello , I'm Sayali Sawant</h1>
- <h3 align="center">A passionate Full Stack Developer </h3>
+ <h3 align="center">A Full Stack Developer </h3>
 
 <!--!nnjd bvigfdhfbigvjhdbgipeasbgiblg-->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Suraj1213-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
