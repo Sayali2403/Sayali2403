@@ -1,4 +1,4 @@
-# Sayali Sawant
+# Sayali 
 ﻿
  <h1 align="center">Hello , I'm Sayali Sawant</h1>
  <h3 align="center">A Full Stack Developer </h3>
