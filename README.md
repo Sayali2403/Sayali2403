@@ -1,7 +1,7 @@
 # Sayali
 
 ﻿
- <h1 align="center">Hello , Myself Sayali Sawant</h1>
+ <h1 align="center">Hello , Myself Sayali </h1>
  <h3 align="center">A Full Stack Developer </h3>
 
 <!--!nnjd bvigfdhfbigvdbgipeasbgiblg-->
