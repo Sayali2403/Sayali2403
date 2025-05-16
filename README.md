@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Sayali 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Passionate about data-driven insights</h3>
 
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
@@ -62,17 +62,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayali2403-ux&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayali2403&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayali2403-ux&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayali2403&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayali2403-ux&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayali2403&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true" />
 </p>
 
 ---
