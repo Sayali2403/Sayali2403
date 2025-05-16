@@ -1,68 +1,88 @@
 # Sayali Sawant
 
-﻿
- <h1 align="center">Hello , Myself Sayali </h1>
- <h3 align="center">A Full Stack Developer </h3>
+<h1 align="center">Hello, I'm Sayali 👋</h1>
+<h3 align="center">Aspiring Data Analyst | Passionate about data-driven insights</h3>
 
-<!--!nnjd bvigfdhfbigvdbgipeasbgiblg-->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 </div>
-<h3 align="left"> Sayali Sawant, Currently pursuing BE degree in Computer Engineering from MMIT .</h3>
-<br/>
 
+<h3 align="center">I'm Sayali Sawant, currently pursuing a BE degree in Computer Engineering from MMIT.</h3>
+
+---
+
+## 📫 Connect with me
 
 <div align="center">
-  <h3 align="centre">Connect with me !</h3>
-<p align="centre">
-<a href="https://www.linkedin.com/in/sayali-sawant-7b0132345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayali sawant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sayalisawant277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sayalisawant277" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Sayali-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sayali-24" height="30" width="40" /></a>
+  <h3 align="center">Let's Connect!</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sayali-sawant-7b0132345/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/sayalisawant277" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/Sayali-24" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
+  </p>
+</div>
+
+---
+
+## ⚡ Skills & Tools
+
+### 📊 Data Analytics Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
- </div>
 
+---
 
-## ⚡ Technologies
-<!--## 👨🏻‍💻 Coding Profiles
+### 🛠️ Other Tools
 
-[![LeetCode](https://img.shields.io/badge/-LeeCoe-FFA116?style=flat-squae&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
-
-
-### Languages
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-
-
-### Tools
-
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
 
-## Views
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Suraj1213-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
+---
 
+## 📈 GitHub Stats
 
-
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
-
-<!--<div align="center" style="background-color: black; padding: 20px;">
-       <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
-</div>-->
-<br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj1213-ux&theme=tokyonight&hide_border=true" />
-<p>
-<br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayali2403-ux&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Sayali's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayali-Sawant&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Sayali2403)
+## 📊 Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayali2403-ux&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Notes
+
+> ✅ **Make sure your GitHub username is correct everywhere. In this case: `Sayali2403-ux`**
+>  
+> ✅ You may update any of the links like:
+> - **LinkedIn:** `https://www.linkedin.com/in/sayali-sawant-7b0132345/`
+> - **HackerRank:** `https://www.hackerrank.com/profile/sayalisawant277`
+> - **LeetCode:** `https://www.leetcode.com/Sayali-24`
+
+---
 
