@@ -62,10 +62,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayali2403-ux&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayali2403-ux&show_icons=true&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayali2403-ux&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📊 Activity Graph
 
