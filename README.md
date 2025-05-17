@@ -76,15 +76,3 @@
 </p>
 
 ---
-
-## ✍️ Notes
-
-> ✅ **Make sure your GitHub username is correct everywhere. In this case: `Sayali2403-ux`**
->  
-> ✅ You may update any of the links like:
-> - **LinkedIn:** `https://www.linkedin.com/in/sayali-sawant-7b0132345/`
-> - **HackerRank:** `https://www.hackerrank.com/profile/sayalisawant277`
-> - **LeetCode:** `https://www.leetcode.com/Sayali-24`
-
----
-
