@@ -1,7 +1,7 @@
 # Sayali Sawant
 
 <h1 align="center">Hello, I'm Sayali 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Passionate about data-driven insights</h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
