@@ -1,4 +1,4 @@
-# Sayali Sawant
+# Sayali
 
 <h1 align="center">Hello,I'm Sayali 👋</h1>
 <h3 align="center">Aspiring Data Analyst </h3>
