@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Sayali👋</h1>
 <h3 align="center">Aspiring Data Analyst </h3>
 
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403&label=PROFILE+VIEWS&style=flat-square&color=orange)
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Sayali2403&label=PROFILE+VIEWS&style=flat-square&color=red)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
