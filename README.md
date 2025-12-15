@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 </div>
 
-<h3 align="center">Currently pursuing a BE degree in Computer Engineering at Marathwada Mitra Mandal's Institute of Technology.</h3>
+<h3 align="center">Currently pursuing a BE degree in Computer Engineering at MMIT.</h3>
 
 ---
 
