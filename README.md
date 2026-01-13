@@ -16,7 +16,7 @@
 ## 📫 Connect with me
 
 <div align="center">
-  <h3 align="center">Let's Connect!</h3>
+  <h3 align="center">Connect with me!!!</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/sayali-sawant-7b0132345/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
